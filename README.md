@@ -5,8 +5,6 @@ The project uses the Tailwind purge to make the files as clean as possible.
 
 Online Preview of the source: https://stefantrajkov.com/mailerlite/
 
-Figma Preview Link: https://www.figma.com/design/s2q3tLo4zup0UsU97BNF6D/MailerLite---Hero-Section?node-id=0-1&t=coIcg91jcoIfbKNX-1
-
 
 ## Installation
 
